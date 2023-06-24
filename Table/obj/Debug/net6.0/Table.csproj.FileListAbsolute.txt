@@ -1,0 +1,5 @@
+C:\Users\nancy\Desktop\tarea sesion 5 dalbert medrano\Table\obj\Debug\net6.0\Table.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\tarea sesion 5 dalbert medrano\Table\obj\Debug\net6.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\Desktop\tarea sesion 5 dalbert medrano\Table\obj\Debug\net6.0\Table.AssemblyInfoInputs.cache
+C:\Users\nancy\Desktop\tarea sesion 5 dalbert medrano\Table\obj\Debug\net6.0\Table.AssemblyInfo.cs
+C:\Users\nancy\Desktop\tarea sesion 5 dalbert medrano\Table\obj\Debug\net6.0\Table.csproj.CoreCompileInputs.cache
